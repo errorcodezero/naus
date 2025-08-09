@@ -5,4 +5,5 @@ edition = "2024"
 
 [dependencies]
 clap = { version = "4.5.43", features = ["derive"] }
+rodio = "0.21.1"
 unicode-segmentation = "1.9.0"
